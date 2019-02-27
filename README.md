@@ -1,4 +1,4 @@
-#bgu ppl 171 course assigments solutions
+##bgu ppl 171 course assigments solutions
 
 assigment1 is about type checking in typescript
 assigment2 is about scheme programing and parsing scheme code and transforming the result abstract syntax tree
